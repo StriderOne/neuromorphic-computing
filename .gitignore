@@ -28,3 +28,9 @@ htmlcov/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Downloaded datasets
+/lab*/data/
+
+# Local editor settings
+/.vscode/
